@@ -4,7 +4,7 @@ console.groupCollapsed()
 
 let cats = [
   {
-    name: 'Gopher',
+    name: 'Simba',
     age: 2,
     numberOfLegs: 4,
     hasTail: true,
